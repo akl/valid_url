@@ -31,6 +31,7 @@ zones:
   - af
   - afamilycompany
   - afl
+  - africa
   - ag
   - agakhan
   - agency
@@ -63,12 +64,14 @@ zones:
   - anquan
   - anz
   - ao
+  - aol
   - apartments
   - app
   - apple
   - aq
   - aquarelle
   - ar
+  - arab
   - aramco
   - archi
   - army
@@ -111,6 +114,8 @@ zones:
   - barclays
   - barefoot
   - bargains
+  - baseball
+  - basketball
   - bauhaus
   - bayern
   - bb
@@ -168,8 +173,10 @@ zones:
   - boots
   - bosch
   - bostik
+  - boston
   - bot
   - boutique
+  - box
   - bq
   - br
   - bradesco
@@ -215,10 +222,13 @@ zones:
   - cars
   - cartier
   - casa
+  - case
+  - caseih
   - cash
   - casino
   - cat
   - catering
+  - catholic
   - cba
   - cbn
   - cbre
@@ -236,6 +246,7 @@ zones:
   - ch
   - chanel
   - channel
+  - charity
   - chase
   - chat
   - cheap
@@ -295,6 +306,7 @@ zones:
   - coupon
   - coupons
   - courses
+  - cpa
   - cr
   - credit
   - creditcard
@@ -302,6 +314,7 @@ zones:
   - cricket
   - crown
   - crs
+  - cruise
   - cruises
   - csc
   - cu
@@ -316,6 +329,7 @@ zones:
   - dabur
   - dad
   - dance
+  - data
   - date
   - dating
   - datsun
@@ -370,6 +384,7 @@ zones:
   - dupont
   - durban
   - dvag
+  - dvr
   - dz
   - earth
   - eat
@@ -398,6 +413,7 @@ zones:
   - estate
   - esurance
   - et
+  - etisalat
   - eu
   - eurovision
   - eus
@@ -450,6 +466,7 @@ zones:
   - fm
   - fo
   - foo
+  - food
   - foodnetwork
   - football
   - ford
@@ -459,6 +476,7 @@ zones:
   - foundation
   - fox
   - fr
+  - free
   - fresenius
   - frl
   - frogans
@@ -467,6 +485,7 @@ zones:
   - ftr
   - fujitsu
   - fujixerox
+  - fun
   - fund
   - furniture
   - futbol
@@ -480,6 +499,7 @@ zones:
   - games
   - gap
   - garden
+  - gay
   - gb
   - gbiz
   - gd
@@ -530,6 +550,7 @@ zones:
   - gratis
   - green
   - gripe
+  - grocery
   - group
   - gs
   - gt
@@ -542,6 +563,7 @@ zones:
   - guru
   - gw
   - gy
+  - hair
   - hamburg
   - hangout
   - haus
@@ -573,10 +595,12 @@ zones:
   - honda
   - honeywell
   - horse
+  - hospital
   - host
   - hosting
   - hot
   - hoteles
+  - hotels
   - hotmail
   - house
   - how
@@ -605,6 +629,7 @@ zones:
   - immo
   - immobilien
   - in
+  - inc
   - industries
   - infiniti
   - info
@@ -631,6 +656,7 @@ zones:
   - it
   - itau
   - itv
+  - iveco
   - iwc
   - jaguar
   - java
@@ -640,6 +666,7 @@ zones:
   - jeep
   - jetzt
   - jewelry
+  - jio
   - jlc
   - jll
   - jm
@@ -733,6 +760,8 @@ zones:
   - living
   - lixil
   - lk
+  - llc
+  - llp
   - loan
   - loans
   - locker
@@ -766,6 +795,7 @@ zones:
   - man
   - management
   - mango
+  - map
   - market
   - marketing
   - markets
@@ -789,6 +819,7 @@ zones:
   - men
   - menu
   - meo
+  - merckmsd
   - metlife
   - mf
   - mg
@@ -809,6 +840,7 @@ zones:
   - mn
   - mo
   - mobi
+  - mobile
   - mobily
   - moda
   - moe
@@ -822,6 +854,7 @@ zones:
   - mormon
   - mortgage
   - moscow
+  - moto
   - motorcycles
   - mov
   - movie
@@ -862,6 +895,7 @@ zones:
   - network
   - neustar
   - new
+  - newholland
   - news
   - next
   - nextdirect
@@ -895,6 +929,7 @@ zones:
   - nyc
   - nz
   - obi
+  - observer
   - off
   - office
   - okinawa
@@ -941,7 +976,9 @@ zones:
   - pg
   - ph
   - pharmacy
+  - phd
   - philips
+  - phone
   - photo
   - photography
   - photos
@@ -999,6 +1036,7 @@ zones:
   - quest
   - qvc
   - racing
+  - radio
   - raid
   - re
   - read
@@ -1013,6 +1051,7 @@ zones:
   - reise
   - reisen
   - reit
+  - reliance
   - ren
   - rent
   - rentals
@@ -1028,8 +1067,10 @@ zones:
   - richardli
   - ricoh
   - rightathome
+  - ril
   - rio
   - rip
+  - rmit
   - ro
   - rocher
   - rocks
@@ -1039,6 +1080,7 @@ zones:
   - rs
   - rsvp
   - ru
+  - rugby
   - ruhr
   - run
   - rw
@@ -1080,6 +1122,7 @@ zones:
   - scot
   - sd
   - se
+  - search
   - seat
   - secure
   - security
@@ -1139,6 +1182,7 @@ zones:
   - soy
   - space
   - spiegel
+  - sport
   - spot
   - spreadbetting
   - sr
@@ -1303,6 +1347,7 @@ zones:
   - vn
   - vodka
   - volkswagen
+  - volvo
   - vote
   - voting
   - voto
@@ -1341,6 +1386,7 @@ zones:
   - work
   - works
   - world
+  - wow
   - ws
   - wtc
   - wtf
@@ -1366,7 +1412,7 @@ zones:
   - ভাৰত
   - ভারত
   - 八卦
-  - ‏موقع‎
+  - .موقع‎
   - বাংলা
   - 公益
   - 公司
@@ -1377,13 +1423,14 @@ zones:
   - москва
   - испытание
   - қаз
+  - католик
   - онлайн
   - сайт
   - 联通
   - срб
   - бг
   - бел
-  - ‏קום‎
+  - .קום‎
   - 时尚
   - 微博
   - 테스트
@@ -1399,13 +1446,13 @@ zones:
   - 商城
   - дети
   - мкд
-  - ‏טעסט‎
+  - .טעסט‎
   - ею
   - ポイント
   - 新闻
   - 工行
   - 家電
-  - ‏كوم‎
+  - .كوم‎
   - 中文网
   - 中信
   - 中国
@@ -1419,10 +1466,11 @@ zones:
   - 測試
   - クラウド
   - ભારત
+  - 通販
   - भारतम्
   - भारत
   - भारोत
-  - ‏آزمایشی‎
+  - .آزمایشی‎
   - பரிட்சை
   - 网店
   - संगठन
@@ -1435,50 +1483,58 @@ zones:
   - 食品
   - δοκιμή
   - 飞利浦
-  - ‏إختبار‎
+  - .إختبار‎
   - 台湾
   - 台灣
   - 手表
   - 手机
   - мон
-  - ‏الجزائر‎
-  - ‏عمان‎
-  - ‏ارامكو‎
-  - ‏ایران‎
-  - ‏العليان‎
-  - ‏امارات‎
-  - ‏بازار‎
-  - ‏پاکستان‎
-  - ‏الاردن‎
-  - ‏موبايلي‎
-  - ‏بارت‎
-  - ‏بھارت‎
-  - ‏المغرب‎
-  - ‏ابوظبي‎
-  - ‏السعودية‎
-  - ‏ڀارت‎
-  - ‏سودان‎
-  - ‏همراه‎
-  - ‏عراق‎
-  - ‏مليسيا‎
+  - .الجزائر‎
+  - .عمان‎
+  - .ارامكو‎
+  - .ایران‎
+  - .العليان‎
+  - .اتصالات‎
+  - .امارات‎
+  - .بازار‎
+  - .موريتانيا‎
+  - .پاکستان‎
+  - .الاردن‎
+  - .موبايلي‎
+  - .بارت‎
+  - .بھارت‎
+  - .المغرب‎
+  - .ابوظبي‎
+  - .البحرين‎
+  - .السعودية‎
+  - .ڀارت‎
+  - .كاثوليك‎
+  - .سودان‎
+  - .همراه‎
+  - .عراق‎
+  - .مليسيا‎
   - 澳門
   - 닷컴
   - 政府
-  - ‏شبكة‎
-  - ‏بيتك‎
+  - .شبكة‎
+  - .بيتك‎
+  - .عرب‎
   - გე
   - 机构
   - 组织机构
   - 健康
   - ไทย
-  - ‏سورية‎
+  - .سورية‎
+  - 招聘
   - рус
   - рф
   - 珠宝
-  - ‏تونس‎
+  - .تونس‎
   - 大拿
+  - ລາວ
   - みんな
   - グーグル
+  - ευ
   - ελ
   - 世界
   - 書籍
@@ -1487,6 +1543,7 @@ zones:
   - 网址
   - 닷넷
   - コム
+  - 天主教
   - 游戏
   - vermögensberater
   - vermögensberatung
@@ -1494,14 +1551,14 @@ zones:
   - 信息
   - 嘉里大酒店
   - 嘉里
-  - ‏مصر‎
-  - ‏قطر‎
+  - .مصر‎
+  - .قطر‎
   - 广东
   - இலங்கை
   - இந்தியா
   - հայ
   - 新加坡
-  - ‏فلسطين‎
+  - .فلسطين‎
   - テスト
   - 政务
   - xperia
