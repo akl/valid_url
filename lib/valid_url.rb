@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'valid_url/engine'
 require 'addressable/uri'
 require 'resolv'
 
@@ -19,7 +20,10 @@ module ActiveModel
           invalid = true
         end
 
-        record.errors[attribute] << (options[:message] || 'is an invalid URL') unless !invalid && valid_scheme?(uri.scheme) && valid_host?(uri.host) && valid_path?(uri.path)
+        unless !invalid && valid_scheme?(uri.scheme) && valid_host?(uri.host) && valid_path?(uri.path)
+          record.errors[attribute] << (options[:message] || 'is an invalid URL')
+          record.errors.add attribute, :invalid_url, options
+        end
       end
 
       protected
